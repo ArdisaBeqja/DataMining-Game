@@ -1,0 +1,2 @@
+X: 1 points
+O: 0 points
